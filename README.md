@@ -1,9 +1,9 @@
 # homespanmotion
 Motion sensor using HomeSpan
 
-# Requirements
+## Requirements
 - ESP32
 - rcwl-0516
 
-# Paring Code
+## Paring Code
 09654387
